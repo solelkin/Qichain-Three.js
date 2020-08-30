@@ -1,0 +1,23 @@
+{
+  "name": "qichain-three",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "three": "^0.120.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/solelkin/Qichain-Three.js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/solelkin/Qichain-Three.js/issues"
+  },
+  "homepage": "https://github.com/solelkin/Qichain-Three.js#readme"
+}
